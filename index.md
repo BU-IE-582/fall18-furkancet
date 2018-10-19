@@ -1,1 +1,1 @@
-[Here](/Users/furkancetinkaya/Documents/GitHub/fall18-furkancet/files/IE582HW1.html) is my HW1.[Here](/files/IE582HW1.html) is my HW1.
+[Here](/files/IE582HW1.html) is my HW1.
